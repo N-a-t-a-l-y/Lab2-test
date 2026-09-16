@@ -1,3 +1,1 @@
-Small workspace created for the SA4 Lab 2 activity (SaaS vs IaaS comparison).
-Created directly through GitHub's web interface — no local installation,
-server provisioning, or scaling setup required.
+I did not have to install anything, provision a server, or configure scaling. GitHub manages the whole stack (infrastructure, platform, and application). I only had to make a few configuration choices: repository name, visibility, and whether to add a README, .gitignore, or license.
